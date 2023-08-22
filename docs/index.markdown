@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Wait a minute, is this where I do my updates?
