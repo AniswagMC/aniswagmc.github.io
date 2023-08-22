@@ -2,6 +2,7 @@
 layout: home
 title: About
 permalink: /about/
+published: false
 ---
 
 Ah, it seems you're interested in who I am and what I do. Well, in that case, let's not keep you waiting any longer. Here is my [resume][1]
