@@ -5,4 +5,5 @@
 layout: home
 ---
 
-Wait a minute, is this where I do my updates?
+Hi 👋, like I've said, I'm a fresh graduate in the wild, looking for their first gig into the big software world.
+If you'd like to know more about my experiences, find out [here](./about.markdown)
