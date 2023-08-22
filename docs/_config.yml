@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: anirudhduggal
 github_username:  AniswagMC
 
+show_downloads: true
+
 # # Build settings
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
