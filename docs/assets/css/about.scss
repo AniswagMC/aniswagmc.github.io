@@ -1,5 +1,9 @@
 ---
 ---
-.main-content {
-  font-size: 20px
+#main_content {
+  $size: 20px;
+  font: {
+    size: $size;
+    color: 'red';
+  }
 }
