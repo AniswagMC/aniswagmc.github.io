@@ -28,6 +28,7 @@ linkedin_username: anirudhduggal
 github_username:  AniswagMC
 
 show_downloads: true
+google_analytics: G-PB1HQ7MC7Q
 
 # # Build settings
 remote_theme: pages-themes/merlot@v0.2.0
