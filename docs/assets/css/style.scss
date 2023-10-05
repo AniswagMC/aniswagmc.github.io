@@ -1,1 +1,44 @@
-@import "{{ site.theme }}"
+---
+---
+
+@import "{{ site.theme }}";
+
+$base-color: #90a959;
+$border-dark: rgba($base-color, 0.2);
+$border-darker: rgba($base-color, 0.8);
+
+.answer-btn {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid $border-dark;
+    width: 35vw;
+    justify-content: center;
+    padding: 0.5em 0;
+    background-color: transparent;
+
+    &:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        background: $border-darker;
+        height: 100%;
+        transition: all 0.5s;
+        z-index: -2;
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    &:hover:after {
+        width: 100%
+    }
+}
+
+.show-ans {
+    color: white;
+    visibility: hidden;
+}

@@ -32,6 +32,26 @@
       <section id="main_content">
         {{ content }}
       </section>
+
+      <section class="answer-btn" onclick="showAnswer()">
+        What's the lie?
+      </section>
+
+      <section id="show-ans">
+        If you guessed that I, in fact, do not hate milk chocolate, congratulations!
+      </section>
+
+      <script>
+        function showAnswer() {
+          x = document.getElementById("show-ans")
+
+          if (x.style.visibility === "visible") {
+            x.style.visibility = "hidden"
+          } else {
+            x.style.visibility = "visible"
+          }
+        }
+      </script>
     </div>
   </body>
 </html>
