@@ -21,9 +21,15 @@
 
         <section id="downloads">
           {% if site.show_downloads %}
-            <a href="{{ '/assets/01-Anirudh_Duggal_SWE.pdf' }}" class="btn">Resume</a>
+            <a href="{{ '/assets/01-Anirudh_Duggal_SWE.pdf' }}" class="hover-btn notextdecor-white">Resume</a>
           {% endif %}
           <!-- <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
+        </section>
+
+        <section>
+          <a href = "/about" class="hover-btn notextdecor-white">
+            About
+          </a>
         </section>
       </div>
     </header>
@@ -33,7 +39,7 @@
         {{ content }}
       </section>
 
-      <section class="answer-btn" onclick="showAnswer()">
+      <section class="hover-btn nav-link" onclick="showAnswer()">
         What's the lie?
       </section>
 
