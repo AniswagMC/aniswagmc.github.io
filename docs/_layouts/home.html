@@ -50,11 +50,14 @@
       <script>
         function showAnswer() {
           x = document.getElementById("show-ans")
+          y = document.getElementsByClassName("hover-btn nav-link")[0]
 
           if (x.style.visibility === "visible") {
             x.style.visibility = "hidden"
+            y.innerHTML = 'What\'s the lie?'
           } else {
             x.style.visibility = "visible"
+            y.innerHTML = 'Hide Answer 🤫'
           }
         }
       </script>
