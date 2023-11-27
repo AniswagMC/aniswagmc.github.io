@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '../assets/css/style.css' }}">
+    <script src="https://kit.fontawesome.com/308857c559.js" crossorigin="anonymous"></script>
     {% include head-custom.html %}
 
 {% seo %}
@@ -25,10 +26,24 @@
       <section id="main_content">
         {{ content }}
       </section>
+
+      {% if site.data.social-media %}
+      <div id="social-media">
+        {% assign sm = site.data.social-media %}
+        {% for entry in sm %}
+          {% assign key = entry | first %}
+          {% if sm[key].id %}
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}">
+              <i class="{{ sm[key].fa-icon }}" style="color: {{ sm[key].color }}"></i>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
     </div>
 
     <section style="margin-left: 10vw;">
-      <a href = "/" class="hover-btn notextdecor-white">
+      <a href = "/" class="hover-btn notextdecor-white top-marg">
         Back
       </a>
     </section>
