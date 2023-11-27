@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Ah, it seems you're interested in who I am and what I do. Unfortunately, this section is still a work in progress, but until then free to scroll through my life!
+Ah, it seems you're interested in who I am and what I do. Unfortunately, this section is still a work in progress, but until then free to scroll through my life or get in touch with me!
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhduggal/)
