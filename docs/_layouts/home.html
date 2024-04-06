@@ -19,17 +19,7 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ '/assets/01-Anirudh_Duggal_SWE.pdf' }}" class="hover-btn notextdecor-white">Resume</a>
-          {% endif %}
-        </section>
-
-        <section>
-          <a href = "/about" class="hover-btn notextdecor-white">
-            About
-          </a>
-        </section>
+        {% include navigation.html %}
       </div>
     </header>
 
