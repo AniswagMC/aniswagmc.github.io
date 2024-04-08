@@ -5,7 +5,15 @@ permalink: /about/
 published: true
 ---
 
-Ah, it seems you're interested in who I am and what I do. Unfortunately, this section is still a work in progress, but until then free to scroll through my life or get in touch with me!
+Ah, it seems you're interested in who I am and what I do. 
+
+Well, I'm a software developer who has just recently began to undertake new learning opportunities in the world of programming. I have been working with JavaScript, HTML/CSS, React and the likes for a little over 3 years now, and while there is still yet so much for me to learn there, I wanted to try something different. So I've recently decided to carve my own journey and dive into the world of Golang.
+
+With my 'growth mindset' and the Linkedin recruiters out of the way, I want to get into the meat and potatoes of my developer existance --- *personal projects*:
+
+* Airbnb Clone
+* Tiktok Claims (Machine Learning)
+* Capstone ML Project
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhduggal/)
