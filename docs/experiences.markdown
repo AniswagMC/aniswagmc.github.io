@@ -7,14 +7,14 @@ published: true
 # SIBCA Connect
 ![]({{site.url}}\assets\sibca.svg)
 
-Worked with a IoT developers to design and develop dashboards for our IoT devices, providing our clients with a comprehensive understanding of the status of the installed devices. Worked with <ins>**MQTT and Zigbee Network protocols**</ins> to set up IoT mesh network, allowing us to monitor a varied range of environmental data in over <ins>**800 places of religious worship**</ins> to help with smart contorl of electricity, AC and other devices.
+Worked with developers to design and develop dashboards for our IoT devices using the Thingsboard IoT Platform, providing our clients with a comprehensive understanding of the status of the installed devices and any data being pinged from the devices. Worked with <ins>**MQTT and Zigbee Network protocols**</ins> to establish an IoT mesh network, allowing us to monitor a varied range of environmental data for over <ins>**700 places of worship**</ins>. This resulted in the buildings begining to save big on energy costs and increase the efficiency of their ventilation and lighting systems.  
 
 ***
 # Seleste
 ![]({{site.url}}\assets\seleste.webp)
 <!-- <img src="./assets/seleste.webp" alt='Seleste Logo'/> -->
 
-Worked with a team of developers to develop a pair of glasses that would aid the visually-imparied, by integrating AI. I developed the login and the settings page using React Native for AndroidOS and iOS, <ins>**improving the functional UI by 25%**</ins>. I also integrated the front and back ends to enable saving of  fields such as username and password via the settings page, adding to the overall functionality of the app.
+Worked with a team of developers to develop a pair of glasses that would aid the visually-imparied, by integrating AI. I developed the login and the settings page using React Native for AndroidOS and iOS, <ins>**improving the functional UI by 25%**</ins>. I also integrated the front and back ends to enable saving of fields such as username and password via the settings page, adding to the overall functionality of the app.
 
 ***
 # The HIVE

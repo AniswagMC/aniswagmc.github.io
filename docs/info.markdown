@@ -1,8 +1,8 @@
 ---
-layout: about
-title: About
-permalink: /about/
-published: true
+layout: projects
+title: Projects
+permalink: /projects/
+published: false
 ---
 
 Ah, it seems you're interested in who I am and what I do. 
