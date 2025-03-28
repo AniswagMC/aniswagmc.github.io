@@ -5,8 +5,7 @@
 layout: home
 ---
 
-Hi 👋, like I've said, I'm a fresh graduate in the wild, looking for my first gig in the big software world.
-If you'd like to know more about me or my experiences, please check out the about page. If the link happens to be simply too far, get to the about page by cliking [here](./about.markdown).
+Hi 👋. Welcome to my site! If you'd like to know more about me or my experiences, please check out the about page. If the link happens to be simply too far, get to the about page by cliking [here](./about.markdown).
 
 While I continue to bring updates to this site, lets a play a little game called two truths and a lie to get to know me a little better: 
 
