@@ -5,7 +5,7 @@ permalink: /exp/
 published: true
 ---
 # IBM
-![IBM Logo]({{site.url}}/assets/images/ibm.svg)
+![IBM Logo]({{site.url}}/assets/images/IBM.svg)
 
 Worked with clients such as Saudi Telecom Company to develop dashboards visualizing essential information like number of outages in their cellular network and where their tickets are originating from. Further, introduced various QoL imporvements and new features to make existing dashboards more comprehensive; moreover, increasing data visbility enabling faster data-driven decisions as well. This also resulted in the client being able to montior their network more efficiently and effectively allowing for quicker response times to crises. Addtiaonlly, <ins>**reduced technical debt by ~30%**</ins> across multiple dashboards aiding in quicker development.
 
